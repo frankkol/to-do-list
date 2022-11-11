@@ -30,9 +30,9 @@ setInterval(function(){
 
 //Definição background image:
 let images = [
-    "url('../img/goodmorning.jpg')",
-    "url('../img/tarde.jpg')",
-    "url('../img/bye.jpg')"
+    "url('./img/goodmorning.jpg')",
+    "url('./img/tarde.jpg')",
+    "url('./img/bye.jpg')"
 ]
 
 function changeImage(lastHour) {
